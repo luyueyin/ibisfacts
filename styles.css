@@ -13,7 +13,50 @@ h1 {
 }
 
 #header_image {
-    width: 20vw;
+    width: 40vw;
     display: block;
     margin: auto;
+}
+
+header {
+    background-color: rgb(142, 154, 111);
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(142, 154, 111);
+}
+
+section {
+    margin: 5vw;
+    padding: 5vw;
+    border-radius: 20px;
+    background-color: rgb(185, 189, 157);
+}
+
+#ibis_pics {
+    background-color: rgb(229, 194, 151);
+}
+
+p {
+    margin-top: 1.5vw;
+}
+
+ul {
+    margin-left: 1.2vw;
+    margin-top: 1vw;
+}
+
+img {
+    width: 40%;
+    display: inline-block;
+    position: relative;
+}
+
+#img1 {
+    top: -30px;
+}
+
+#img4 {
+    top: -340px;
 }
